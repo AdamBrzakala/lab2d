@@ -117,7 +117,7 @@ function exampleText() {
     diskB.value = "C:\\Windows\\temp";
     catalog.value = "/etc/passwd";
     ip6.value = "2001:0db8:85a3:0000:0000:8a2e:0370:7334";
-    phone.value = "492-492-492";
+    phone.value = "492 492 492";
 
 }
 

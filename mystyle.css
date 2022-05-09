@@ -1,3 +1,8 @@
+input {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
 input:invalid {
     border: 2px solid;
     border-color: rgb(230, 56, 56);
@@ -10,4 +15,12 @@ input:valid:not(.button) {
 
 .but {
     border: 1px solid rgb(0, 0, 0);
+}
+
+button {
+    width: 80px;
+}
+
+label {
+    width: 1000px;
 }
